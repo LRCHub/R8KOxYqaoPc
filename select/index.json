@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "絆-kizunairo-色",
+  "base_artist": "Lia",
+  "createdAt": "2026-02-11T15:37:41.786750Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "絆-kizunairo-色 Rock Style",
+      "artist": "Veil",
+      "has_synced": true,
+      "path": "select/01_絆-kizunairo-色_Rock_Style_Veil.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "絆-kizunairo-色",
+      "artist": "Lia",
+      "has_synced": false,
+      "path": "select/pl_01_絆-kizunairo-色_Lia.txt"
+    }
+  ]
+}
